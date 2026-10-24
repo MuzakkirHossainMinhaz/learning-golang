@@ -1,0 +1,9 @@
+go 1.27.2
+
+use (
+	./01-hello-world
+	./02-variables-and-data-types
+	./03-user-input
+	./04-type-conversion
+	./05-math-and-random-numbers
+)
