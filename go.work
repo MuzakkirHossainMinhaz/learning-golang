@@ -6,4 +6,6 @@ use (
 	./03-user-input
 	./04-type-conversion
 	./05-math-and-random-numbers
+	./06-time-and-dates
+	./07-pointers
 )

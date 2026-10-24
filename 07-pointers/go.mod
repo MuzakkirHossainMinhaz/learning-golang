@@ -1,0 +1,3 @@
+module learning-golang/pointers
+
+go 1.27.2
