@@ -8,4 +8,7 @@ use (
 	./05-math-and-random-numbers
 	./06-time-and-dates
 	./07-pointers
+	./08-arrays
+	./09-slices
+	./10-maps
 )
