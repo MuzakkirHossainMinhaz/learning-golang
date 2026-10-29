@@ -11,4 +11,8 @@ use (
 	./08-arrays
 	./09-slices
 	./10-maps
+	./11-structs
+	./12-if-else
+	./13-switch-case
+	./14-loops
 )
